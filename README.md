@@ -6,7 +6,7 @@ Practice object oriented programming principles. Implement a summer plan that is
 
 ## Features
 - Checkin/Checkout book
-- Check book availability by title
+- Check book availability by title, author name and Isbn
 - Search book by author name
 - Add book to library system
 
